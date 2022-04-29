@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Edelweiss/AndroidStudioProjects/SanFelix1/app/src/main/res/layout/activiti_main1.xml" value="0.1" />
         <entry key="..\:/Users/Edelweiss/AndroidStudioProjects/SanFelix1/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/Edelweiss/AndroidStudioProjects/SanFelix1/app/src/main/res/layout/activity_main1.xml" value="0.165625" />
+        <entry key="..\:/Users/Edelweiss/AndroidStudioProjects/SanFelix1/app/src/main/res/layout/activity_main2.xml" value="0.1796875" />
+        <entry key="..\:/Users/Edelweiss/AndroidStudioProjects/SanFelix1/app/src/main/res/layout/layout.xml" value="0.1" />
+        <entry key="..\:/Users/Edelweiss/AndroidStudioProjects/SanFelix1/app/src/main/res/layout/main1.xml" value="0.165625" />
       </map>
     </option>
   </component>
